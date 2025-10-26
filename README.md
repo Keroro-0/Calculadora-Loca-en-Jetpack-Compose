@@ -15,21 +15,21 @@ Permite realizar operaciones básicas (suma, resta, multiplicación y división)
 ---
 
 Texto mostrado en el botón	Valor que realmente inserta
-1 -> 3
-2 -> 4
-3 -> 6
-4 -> 6
-0 -> 2
-6 -> 8
-7 -> 9
-8 -> 0
-9 -> 1
+1 -> 3 
+2 -> 4 
+3 -> 6 
+4 -> 6 
+0 -> 2 
+6 -> 8 
+7 -> 9 
+8 -> 0 
+9 -> 1 
 
 Símbolo mostrado	Operación real
-&	Suma (+)
-%	Resta (−)
-@	Multiplicación (×)
-#	División (÷)
+&	Suma (+) 
+%	Resta (−) 
+@	Multiplicación (×) 
+#	División (÷) 
 =	Calcula el resultado
 
 
