@@ -26,11 +26,11 @@ Texto mostrado en el botón	Valor que realmente inserta
 9->1 
 
 Símbolo mostrado	Operación real
-&	Suma (+) 
-%	Resta (−) 
-@	Multiplicación (×) 
-#	División (÷) 
-=	Calcula el resultado
+(&)	Suma (+) 
+(%)	Resta (−) 
+(@)	Multiplicación (×) 
+(#)	División (÷) 
+(=)	Calcula el resultado
 
 
 ## ⚙️ Instrucciones de ejecución
